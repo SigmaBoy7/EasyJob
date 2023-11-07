@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <div class="max-w-7xl flex m-auto p-3">
+    <div class="">
       <router-view></router-view>
     </div>
   </div>
